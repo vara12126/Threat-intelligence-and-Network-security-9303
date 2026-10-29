@@ -1096,3 +1096,4 @@ Threat Category Score Breakdown:
 
 ### 6. Result & Conclusion
 The program identified traffic interception and message modification indicators, accurately classifying the incident as **Man-in-the-Middle (MitM)**.
+
